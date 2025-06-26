@@ -44,4 +44,4 @@ Pairs trading is a quantitative trading strategy that profits from the mean-reve
 
 ### Run
 ```R
-shiny::runApp("http://127.0.0.1:7104")
+http://127.0.0.1:7104
