@@ -1,12 +1,12 @@
-# pairs-trading-shiny
+# Pairs Trading Strategy
 A Shiny app for pairs trading using cointegration and z-score strategies
-# 📈 Pairs Trading Strategy Dashboard
+# Pairs Trading Strategy Dashboard
 
 A **Shiny app** to track and backtest a market-neutral **pairs trading strategy**, leveraging **cointegration** and **z-score analysis** to identify and act on statistically driven trading signals.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Pairs trading is a quantitative trading strategy that profits from the mean-reverting behavior of historically correlated stocks. This app:
 
@@ -18,7 +18,7 @@ Pairs trading is a quantitative trading strategy that profits from the mean-reve
 
 ---
 
-## 🧠 Strategy Logic
+## Strategy Logic
 
 1. **Pair Selection**
    - Find pairs with correlation > 0.75
@@ -35,8 +35,11 @@ Pairs trading is a quantitative trading strategy that profits from the mean-reve
    - **Z ≈ 0**: Close position
 
 ---
+## How to use
+**Selecting Pairs:** Use the dropdown menu to explore cointegrated stock pairs with high correlation
 
-## 🛠️ Running the App 
+---
+## Running the App 
 
 ### Run
 http://127.0.0.1:7104
