@@ -36,12 +36,7 @@ Pairs trading is a quantitative trading strategy that profits from the mean-reve
 
 ---
 
-## 🛠️ Running the App Locally
-
-### Requirements
-- R and RStudio installed
-- Required libraries: `quantmod`, `shiny`, `dplyr`, `ggplot2`, `tseries`, `urca`, etc.
+## 🛠️ Running the App 
 
 ### Run
-```R
 http://127.0.0.1:7104
