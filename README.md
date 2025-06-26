@@ -27,10 +27,7 @@ Pairs trading is a quantitative trading strategy that profits from the mean-reve
 2. **Z-Score Calculation**
    - Compute the ratio of prices
    - Calculate rolling 40-day mean and std deviation of the ratio
-   - Compute z-score:  
-     \[
-     Z = \frac{{\text{{Ratio}} - \mu}}{{\sigma}}
-     \]
+   - Compute z-score
 
 3. **Trading Rules**
    - **Z > +2**: Short spread (short expensive, long cheap)
