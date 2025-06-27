@@ -38,8 +38,3 @@ Pairs trading is a quantitative trading strategy that profits from the mean-reve
 ## How to use
 **Selecting Pairs:** Use the dropdown menu to explore cointegrated stock pairs with high correlation
 
----
-## Running the App 
-
-### Run
-http://127.0.0.1:7104
